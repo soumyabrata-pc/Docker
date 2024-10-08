@@ -1,4 +1,4 @@
-# Created at 2024-10-08T11:36:06.837
+# Created at 2024-10-08T17:15:31.564
 Boot Manifest-JAR contains absolute paths in classpath 'F:\TEST01\TestDocker01\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
